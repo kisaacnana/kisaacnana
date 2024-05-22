@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [A website for my local church](https://kisaacnana.github.io/CHURCH/)
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Python Programming**
 
 - 👨‍💻 All of my projects are available at [https://mega.nz/folder/xRNXHCpJ#u3K-Iw4o9viDNDi_oS5p3w](https://mega.nz/folder/xRNXHCpJ#u3K-Iw4o9viDNDi_oS5p3w)
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **Animations**
 
 - 📫 How to reach me **kisaacnana@gmail.com**
 
